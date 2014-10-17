@@ -1,0 +1,19 @@
+html {
+	color:#000;
+	background:#FFF; 
+	padding:20px 0;
+	font: 16px "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", Verdana, Arial, Tahoma;
+}
+
+table{border-collapse:collapse;border-spacing:0;}
+
+tr{text-align:center;}
+th{text-align:center;font-weight:bold;}
+td{text-align:center;width:17%;}
+li{margin-bottom:10px;}
+
+#content {width:100%;clear:both;}
+#intro {clear:both;}
+#favorite {clear:both;}
+#me {float:left;}
+#han_info {float:left;}
